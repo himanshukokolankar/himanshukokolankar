@@ -1,6 +1,6 @@
 # Hi, I'm Himanshu Kolankar 👋
 
-**AI Automation Developer | AI Voice Agent Builder — building voice agents that answer calls, qualify leads & book visits.** — Betul, Madhya Pradesh, India
+**AI Automation Developer | AI Agent Builder — building AI agents & automations that handle calls, support customers & get work done.** — Betul, Madhya Pradesh, India
 
 I build practical AI agents and automation for real estate, clinics and small businesses — voice agents, customer support agents and workflow automation — starting small, starting simple, tested end to end. I build with no-code and low-code tools, assisted by AI — I do not write code by hand.
 
